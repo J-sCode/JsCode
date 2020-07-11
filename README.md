@@ -1,8 +1,10 @@
 -----------------------------------------------------------------
-## Ghloom_sound
+## Introduction
 
-This was created in part with an assignment but also in appreciation of a creative artist.
-Ghloom mixes various styles of tech, psy, trap, dub, bass, and hiphop to create new sounds with an electric brain tease, adventurous tone, and pop and drop beat. Welcome to Ghloom World.
+  Hello, and welcome to a brief introduction for Jacqueline Marquez, science and tech professional, with extensive experience. Under the ever constant goal to continually improve and become more efficient, Jacqui has challenged herself with constant learning and developement of industry skills and strengths.
+  This site will act as a brief tour of Jacqui's experience, and a great way to review her expertise. 
 
 UX
 --------------------------
+
+  The design of this site is tailored to Jacqui's own asthetic, simple, clear, and static. 
